@@ -1,5 +1,5 @@
 ## This code assumes that the working directory contains the data file 'household_power_consumption.txt' 
-## and then saves the plot in the same directory.
+## and then saves the plot in the same directory. 
 
 # Check if hpc_ss (the subsetted data) already exists (i.e., has this source been run recently.) 
 # To be sure your using the right data, call rm(hpc_ss) before first use
